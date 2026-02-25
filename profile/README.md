@@ -17,15 +17,13 @@ Each game you play through is a piece of a larger puzzle, _do you think you can 
 
 The **Messy Void Universe's** projects will be executed in *Batches* with their own *Phases*. Each *Batch* will focus on its own collection of games, with each *Phase* slowly twisting the story until it reaches its end.
 
-As of January 2026, we are on Batch 0, Phase 1. If you are curious how the universe's timeline will play out, click **[here](https://docs.google.com/document/d/1wa7GJMd-CLkKVVGESJYbVKu8QDYZHxdH1hmS51cafoE/)**.
-
-All projects will be built with C++17/20 and SFML 3.
+All projects will be built with C++17 and SFML 3.
 
 <br>
 
-### Projects - Batch 0, Phase 1
+### Projects
 
 - `[Active]` **[Void.INC](https://github.com/artdoesstuff/Void.INC)**
+- `[Active]` **[No Name](https://github.com/messyvoidstudios/No-Name)**
 - `[Concept]` **Collapsar: Act 1**
 - `[Planned]` **Void.TD**
-- `[Next]` **No Name: Chapters 1 - 3**
